@@ -1,0 +1,5 @@
+.vscode
+calculator.exe
+
+build/Debug/calculator.o
+build/Debug/outDebug.exe
